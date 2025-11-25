@@ -12,11 +12,11 @@ MoFox-Studio 由此诞生。我们并非历史的终结，而是新篇章的开�
 
 ## 核心项目
 
-### MoFox_Bot
+### MoFox-Core
 
 这是我们的旗舰项目，一个集各家之长，旨在增强并完善 `MaiCore` 功能的 AI Bot。
 
-*   **代码仓库**: [MoFox-Studio/MoFox_Bot](https://github.com/MoFox-Studio/MoFox_Bot)
+*   **代码仓库**: [MoFox-Studio/MoFox_Bot](https://github.com/MoFox-Studio/MoFox-Core)
 *   **使用文档**: [MoFox-Studio/MoFox-Bot-Docs](https://github.com/MoFox-Studio/MoFox-Bot-Docs)
 
 ## 我们的愿景
