@@ -1,38 +1,37 @@
 # MoFox-Studio 🦊
 
-欢迎来到 MoFox-Studio！我们是一个专注于 `MaiCore` 项目二次开发的开发者社区。
+MoFox-Studio 是一个围绕 AI Bot、插件生态与开发工具链持续建设的开源工作室。
 
-## 我们的故事
+我们从社区实践出发，维护 `Neo-MoFox` 及其配套项目，目标是让 Bot 开发更模块化、更易部署，也更适合长期协作。
 
-话说天下大势，分久必合。曾几何时，AI Bot 江湖中有三股强大的“麦麦”魔改势力，各领风骚。然而，技术浪潮滚滚向前，三家主事者深知，唯有联合，方能逐鹿于 AI 之巅。
+## 我们正在做什么
 
-于是，在一个良辰吉日，三家一拍即合，决定整合彼此的力量、智慧与热情，共同打造一个全新的 Bot —— `MoFox_Bot`。
+- **Neo-MoFox**：新一代 MoFox 核心项目，聚焦插件化架构、稳定运行与可扩展能力。
+- **MoFox-Bot-Docs**：面向用户与开发者的文档中心，覆盖安装、配置、插件开发与常见问题。
+- **Neo-MoFox-Launcher**：用于降低环境配置与实例管理成本的桌面启动器。
+- **Neo-MoFox-WebUI**：面向配置管理、状态查看与日常维护的 Web 管理界面。
+- **mofox-plugin-toolkit**：辅助插件开发、清单管理与生态工具建设的工具包。
 
-MoFox-Studio 由此诞生。我们并非历史的终结，而是新篇章的开始。
+## 我们的理念
 
-## 核心项目
+我们相信，好用的开源项目不只依赖代码本身，也依赖清晰的文档、稳定的工具链和友好的协作方式。
 
-### Neo-MoFox
+MoFox-Studio 希望在保持创造力的同时，逐步建立更可靠的工程规范：
 
-这是我们的旗舰项目，一个集各家之长，旨在增强并完善 `MaiCore` 功能的 AI Bot。
+- 以插件化降低扩展成本；
+- 以文档化降低使用门槛；
+- 以工具化减少重复劳动；
+- 以开放协作推动生态成长。
 
-*   **代码仓库**: [MoFox-Studio/Neo-MoFox](https://github.com/MoFox-Studio/Neo-MoFox)
-*   **使用文档**: [MoFox-Studio/MoFox-Bot-Docs](https://github.com/MoFox-Studio/MoFox-Bot-Docs)
+## 核心入口
 
-## 我们的愿景
-
-我们致力于构建一个开放、活跃、互助的开发者社区。
-
-在这里，我们相信代码是思想的载体，社区是灵感的源泉。我们希望 MoFox-Studio 不仅仅是一个项目，更是一个能让所有热爱技术的开发者自由交流、共同成长、创造乐趣的平台。
+- **核心仓库**：[MoFox-Studio/Neo-MoFox](https://github.com/MoFox-Studio/Neo-MoFox)
+- **使用文档**：[MoFox-Studio/MoFox-Bot-Docs](https://github.com/MoFox-Studio/MoFox-Bot-Docs)
+- **启动器**：[MoFox-Studio/Neo-MoFox-Launcher](https://github.com/MoFox-Studio/Neo-MoFox-Launcher)
+- **插件工具包**：[MoFox-Studio/mofox-plugin-toolkit](https://github.com/MoFox-Studio/mofox-plugin-toolkit)
 
 ## 加入我们
 
-独行快，众行远。无论你是经验丰富的大佬，还是初出茅庐的新手，只要你对 AI Bot 开发抱有热情，我们都热烈欢迎你的加入！
+无论你是想使用 MoFox、编写插件、完善文档，还是参与工具链建设，都欢迎通过 Issue、Pull Request 与讨论参与进来。
 
-你可以通过以下方式为社区做出贡献：
-
-*   **提交 Issue**: 发现了 Bug？或者有什么绝妙的点子？请不要犹豫，立即告诉我们！
-*   **发起 Pull Request**: 欢迎为项目添砖加瓦，无论是修复一个微小的拼写错误，还是贡献一个全新的功能。
-*   **参与讨论**: 加入我们的社区，与其他开发者交流想法，分享经验。
-
-让我们一起，用代码创造更多可能！
+让我们一起，用代码创造更有趣、更可靠的 AI Bot 生态。
